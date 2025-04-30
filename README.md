@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Pedro Henrique]
+# 👋 Olá, eu sou <Pedro Henrique>
 
 🎯 Desenvolvedor Front-end!  
 💻 Tecnologias principais: **Java**, **JavaScript**, **Vue.js**, **TypeScript**, **Tailwind CSS**
