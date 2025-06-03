@@ -26,7 +26,6 @@ Também possuo base sólida em **Java**, o que me permite ter uma boa visão ful
 ## 📈 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drope29&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drope29&layout=compact&theme=radical)
 
 ---
 
