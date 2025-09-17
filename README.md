@@ -15,7 +15,7 @@ Também possuo base sólida em **Java**, o que me permite ter uma boa visão ful
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, TypeScript, Java  
+- **Linguagens:** JavaScript, TypeScript, Java, Python 
 - **Frameworks Front-end:** Vue.js e Vite
 - **Estilização:** Tailwind CSS
 - **Controle de versão:** Git & GitHub  
