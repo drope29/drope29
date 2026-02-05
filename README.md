@@ -40,11 +40,6 @@ Também possuo base sólida em **Java**, o que me permite ter uma boa visão ful
 
 ## 📫 Contatos
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<br>
-
 <div align="left">
   <a href="mailto:pedroespindola2912@gmail.com" target="_blank">📧 pedroespindola2912@gmail.com</a><br>
   <a href="https://linkedin.com/in/pedro-h-espindola" target="_blank">💼 linkedin.com/in/pedro-h-espindola</a>
